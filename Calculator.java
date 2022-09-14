@@ -15,7 +15,7 @@ public class Calculator {
         switch (x){
             case 1:
                 int add = a + b;
-                System.out.println("Addition is" +add);
+                System.out.println("Addition is : " +add);
                 break;
             case 2:
                 int sub = a - b;
